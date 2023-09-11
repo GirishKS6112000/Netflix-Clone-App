@@ -442,7 +442,7 @@ footer {
    font-size: 10px;
   }
   .acc{
-    margin-left: 70px;
+    margin-left: 0px;
     margin-top: 8px;
   }
 
@@ -454,18 +454,14 @@ footer {
   font-size: 25px;
 }
 .slide>button{
- position: absolute;
-  top: 40%;
-  margin-left: -800px;
+display: none;
   
 }
 .navigation-auto{
-  top: -34.5%;
-  left:-107%;
+ display: none;
 }
 .navigation-manual{
- top: 0.4%;
-  left:-107%;
+display: none;
 }
 .slider{
   margin-left: 0px;
@@ -494,22 +490,20 @@ footer {
     margin-left: 10px;
     margin-top: 0px;
   }
-  .navbar>a{
-   
-  }
+
   .acc{
-    margin-left: 170px;
+    margin-left: 70px;
     margin-top: 8px;
   }
   .navigation-auto{
     top:-11%;
   }
   .navigation-manual{
-    top: 47%;
+    top: 64%;
   }
   .slide>button{
  position: absolute;
- top: 50%;
+ top: 60%;
   margin-left: -620px;
 }
 
